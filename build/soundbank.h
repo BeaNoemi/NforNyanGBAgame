@@ -1,0 +1,6 @@
+#define MOD_CATMEOW	0
+#define MOD_MODULE2	1
+#define MOD_CT5PROGC_SND	2
+#define MSL_NSONGS	3
+#define MSL_NSAMPS	93
+#define MSL_BANKSIZE	96
